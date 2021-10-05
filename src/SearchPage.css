@@ -1,0 +1,36 @@
+.searchPage__info {
+  padding: 20px;
+}
+
+.searchPage__info > p {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.searchPage__info > h1 {
+  margin-bottom: 30px;
+}
+
+.searchPage__info > button {
+  border-radius: 30px;
+  text-transform: inherit;
+  margin: 5px;
+}
+.searchResult__stars {
+  display: flex;
+  align-items: center;
+}
+
+.searchResult__star {
+  color: red;
+}
+
+.searchResults__price > p {
+  text-align: right;
+}
+
+.searchResults__price {
+  position: absolute;
+  bottom: 20px;
+  right: 30px;
+}
